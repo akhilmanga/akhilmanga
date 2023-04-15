@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Smart Contract Developer
 ------------------------
 
-I’ve been learning to code for 4 months. I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development.
+I’ve been learning to code for 5 months. I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akhilmanga1234@proton.me](mailto:akhilmanga1234@proton.me)
