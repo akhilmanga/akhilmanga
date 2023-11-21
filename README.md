@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Smart Contract Engineer
 ------------------------
 
-I’ve been learning to code for 6 months. I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development.
+I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akhilmanga1234@proton.me](mailto:akhilmanga1234@proton.me)
-* 🧠  I'm learning Web3 security.
+* 🧠  Currently i'm learning Web3 security.
 * 🤝  I'm open to collaborating on Blockchain projects.
 * ⚡  Enjoying everyday learning smart contract development.
 
