@@ -3,10 +3,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhil
 =============================================================================================================================
 
-Smart Contract Engineer
+Security Researcher / Smart Contract Engineer
 ------------------------
 
-I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development.
+I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development. Currently learning Web3 security.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akhilmanga1234@proton.me](mailto:akhilmanga1234@proton.me)
