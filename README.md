@@ -6,13 +6,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Security Researcher / Smart Contract Engineer
 ------------------------
 
-I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development. Currently learning Web3 security.
+I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development. Currently learning Web3 security. [Know more about me](https://linktr.ee/akhilmanga)
 
 * 🌍  I'm based in India
+* 🤠  Founder of [Defenders Dao](https://defendersdao.framer.website/)
 * ✉️  You can contact me at [akhilmanga1234@proton.me](mailto:akhilmanga1234@proton.me)
 * 🧠  Currently i'm learning Web3 security.
-* 🤝  I'm open to collaborating on Blockchain projects.
-* ⚡  Enjoying everyday learning smart contract development.
+* 🤝  I'm open to collaborating on auditing Web3 protocols.
 
 <a href="https://www.twitter.com/akhil_manga" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/akhil_manga?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
@@ -30,6 +30,7 @@ src="https://img.shields.io/twitter/follow/akhil_manga?logo=twitter&style=for-th
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
+<a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 </p>
