@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhil
 =============================================================================================================================
 
-Head of Community
+Head of Community / DevRel community specialist
 ------------------------
 
 I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development. Currently learning Web3 security. [Know more about me](https://linktr.ee/akhilmanga)
