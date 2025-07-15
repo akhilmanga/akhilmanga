@@ -1,6 +1,6 @@
 ![201E5025-5C53-43F7-92BC-DF40C2321D7B](https://user-images.githubusercontent.com/116151859/236777663-e4caeed9-afa7-4197-845f-26fbb28bae6b.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhil
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhil
 =============================================================================================================================
 
 Head of Community / DevRel community specialist
