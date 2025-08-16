@@ -9,7 +9,7 @@ Head of Community / DevRel community specialist
 I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development. Currently learning Web3 security. [Know more about me](https://linktr.ee/akhilmanga)
 
 * 🌍  I'm based in India
-* 🤠  Founder of [Defenders Den](https://defendersden.framer.website/)
+* 🤠  Founder of [Defenders Den](https://defendersden.framer.website/) & Founding Member of Cicada
 * ✉️  You can contact me at [akhilmanga1234@proton.me](mailto:akhilmanga1234@proton.me)
 * 🧠  Currently i'm learning Web3 security.
 * 🤝  I'm open to collaborating on auditing Web3 protocols.
