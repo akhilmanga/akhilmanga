@@ -6,13 +6,13 @@
 Founder / Project Manager / Head of Community / DevRel 
 ------------------------
 
-I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development. Currently learning Web3 security. [Know more about me](https://linktr.ee/akhilmanga)
+I started with HTML, CSS and continued learning with javascript.After that, I really found a passion for Blockchain Development. Currently learning AI Safety. [Know more about me](https://linktr.ee/akhilmanga)
 
 * 🌍  I'm based in India
-* 🤠  Founder of [Defenders Den](https://defendersden.framer.website/) & Founding Member of Cicada
+* 🤠  Founder of [Defenders Den](https://defendersden.framer.website/) & Founding Member of [Cicada](https://x.com/cicada_HQ)
 * ✉️  You can contact me at [akhilmanga1234@proton.me](mailto:akhilmanga1234@proton.me)
-* 🧠  Currently i'm learning Web3 security.
-* 🤝  I'm open to collaborating on auditing Web3 protocols.
+* 🧠  Currently i'm learning AI Safety.
+* 🤝  I'm open to building AI Safety fieldbuilding projects.
 
 <a href="https://www.twitter.com/akhil_manga" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/akhil_manga?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
