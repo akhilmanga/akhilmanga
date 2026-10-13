@@ -11,8 +11,8 @@ I started with HTML, CSS and continued learning with javascript.After that, I re
 * 🌍  I'm based in India
 * 🤠  Founder of [Defenders Den](https://defendersden.framer.website/) & Founding Member of [Cicada](https://x.com/cicada_HQ)
 * ✉️  You can contact me at [akhilmanga1234@proton.me](mailto:akhilmanga1234@proton.me)
-* 🧠  Currently i'm learning AI Safety.
-* 🤝  I'm open to building AI Safety fieldbuilding projects.
+* 🧠  I'm learning AI Safety.
+* 🤝  Currently, I'm working on AI safety field-building project.
 
 <a href="https://www.twitter.com/akhil_manga" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/akhil_manga?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
